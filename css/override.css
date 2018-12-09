@@ -1,0 +1,65 @@
+/*overriding style.css - line number listed for reference */
+/* override 1080px to 800px to adjust for smaller header image */
+/* 3129 */
+header.site-header {
+  max-height: 800px;
+}
+/*3154 */
+header.site-header .parallax-wrapper {
+  max-height: 800px;
+}
+/*3164 */
+header.site-header .container {
+    max-height: 800px;
+}
+/* 3226 */
+header.site-header .header-banner {
+  max-height: -webkit-calc(800px - 250px);
+  max-height: calc(800px - 250px);
+}
+/* 3339 */
+  header.site-header .header-banner {
+    max-height: -webkit-calc(800px - 190px);
+    max-height: calc(800px - 190px);
+  }
+
+/* Center blog text and Read More button on blog index page because date was removed */
+/* 4584 */
+section.blog-section .blog-articles-container article.blog-article .article-content .article-text {
+  width: -webkit-calc(100%);
+  width: calc(100%);
+}
+/* 4603 */
+section.blog-section .blog-articles-container article.blog-article .article-content .show-more .button {
+  float: none;
+  margin: 0 0 0 0;
+}
+
+/* 4988 - footer padding was 80px*/
+footer.site-footer .footer-info {
+    padding: 20px 0;
+}
+
+/* Change Color of small screen header from Orange (default) to a darker color so the logo shows */
+@media (max-width: 1000px){
+  header.site-header .site-navigation-bar {
+    background: #852f0a;
+  }
+}
+
+/* Just setting up style for these as the template did not provide */
+H5 {
+  margin-bottom: .7em;
+  color: #2c3e50;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.article-content ul {
+  list-style-position: inside;
+  margin: 1.25rem;
+}
+.article-content li {
+  list-style-type: disc;
+  line-height: 1.6;
+}
+.center-text {text-align: center;}
