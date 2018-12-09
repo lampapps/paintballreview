@@ -39,4 +39,3 @@ s3_website.yml
 assets/vendor/
 
 # Ruby
-Gemfile.lock
