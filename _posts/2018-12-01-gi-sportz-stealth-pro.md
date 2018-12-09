@@ -13,9 +13,9 @@ Planet Eclipse did a collaboration with GI Sportz to make an upgraded version of
 
 The upgrades are a POPS ASA which is one of the best on/off ASA on the market. Planet Eclipse uses it on their high end guns. 
 
-The Stealth pro also comes with the blade trigger already installed on the gun, and it as the low rise feedneck. The Stealth pro also includes a 4-piece Empire driver XX Barrel kit (3 backs and 1, 14-inch tip). 
+The Stealth Pro also comes with the blade trigger already installed on the gun, and it has the low rise feedneck. The Stealth Pro also includes a 4-piece Empire driver XX Barrel kit (3 backs and 1, 14-inch tip). 
 
-The 3 bore sizes are .684, .688, and .692. Which the .692 is pointless because now and days are .692 is way to big for the paintball. Other than that Everything else is the same between the Gtek 160r and the GI Sportz Stealth Pro.
+The 3 bore sizes are .684, .688, and .692. The .692 is pointless because .692 is way to big for the paintballs. Other than that everything else is the same between the Gtek 160r and the GI Sportz Stealth Pro.
 
 
 ##### What we like
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel sodales 
 
 ##### Bottom line
 
-Highly recommended
+Highly recommended paintball maker.
 
 ##### Cost 
 

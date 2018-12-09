@@ -2,7 +2,7 @@
 #
 
 # Information for compile
-exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md", "s3_website.yml"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md", "s3_website.yml", "s3_sync.sh"]
 
 #
 # If your website is placed in a separate folder on your server please modify
@@ -16,11 +16,11 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md",
 baseurl:
 
 # the base hostname & protocol for your site
-url: "http://127.0.0.1:4000"
+url: "http://test.paintballreview.s3-website-us-east-1.amazonaws.com/"
 
 sass:
   sass_dir: _scss
-  style: compact # possible values: nested expanded compact compressed
+  style: compressed # possible values: nested expanded compact compressed
 
 ####################################
 ######   Optional Features    ######
