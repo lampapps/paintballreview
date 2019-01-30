@@ -16,7 +16,7 @@ The bolt system is super reliable, good consistently, and good air efficiency. F
 
 ##### What we did not like
 
-The only bad thing about the gun is there is no on/off ASA, which is not that big of a deal because you can buy one separately. The [EMEK 100][aws] requires more maintenance then other guns on the beginner gun list because the bolt hs more parts and more O-rings you must clean and lube. In general, maintenance on paintball guns are very simple and easy to learn.
+The only bad thing about the gun is there is no on/off ASA, which is not that big of a deal because you can buy one separately. The [EMEK 100][aws] requires more maintenance then other guns on the beginner gun list because the bolt has more parts and more O-rings you must clean and lube. In general, maintenance on paintball guns are very simple and easy to learn.
 
 CAUTION: Use only compressed air, do not use Co2 in this paintball marker.
 
@@ -28,11 +28,11 @@ CAUTION: Use only compressed air, do not use Co2 in this paintball marker.
 
 ##### Bottom line
 
-Highly reccomended for beginners.
+Highly recommended for beginners.
 
 ##### Cost 
 
-Low cost, only about $220 at [Amazon][aws]
+Low cost.
 
 {% include button.html url="#" %}
 

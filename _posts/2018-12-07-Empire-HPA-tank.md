@@ -25,7 +25,7 @@ If you are on a low budget this is the tank for you.
 
 ##### Cost
 
-Cheap, about $140 on [amazon][aws].
+Low cost.
 
 {% include button.html url="#" %}
 

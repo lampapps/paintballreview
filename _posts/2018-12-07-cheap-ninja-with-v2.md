@@ -26,6 +26,8 @@ Best bang for your buck.
 
 ##### Cost
 
-Average price of about $180 on Amazon.
+Average cost.
 
 {% include button.html url="#" %}
+
+[aws]: # "Link to product at Amazon"

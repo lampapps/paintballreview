@@ -7,16 +7,11 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md",
 #
 # If your website is placed in a separate folder on your server please modify
 # this with your folder name, by default is empty.
-# Example: Sera Demo is hosted on projects.gleesik.ro/sera-onepage
-# If I compile Sera Template and I put in /sera-onepage without modifing baseurl
-# than scripts can't be loaded correctly.
-# For this example my site url is: projects.gleesik.ro (This can be just www.example.com)
-# My folder for Demo Website is: /sera-onepage so baseurl: /sera-onepage
 #
 baseurl:
 
 # the base hostname & protocol for your site
-url: "http://test.paintballreview.s3-website-us-east-1.amazonaws.com/"
+url: "http://test.paintballreview.s3-website-us-east-1.amazonaws.com"
 
 sass:
   sass_dir: _scss
@@ -85,7 +80,7 @@ header-secondary-button:
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email after you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: jamesoferry@gmail.com
 
 # Offer Banner Link
 # Default link

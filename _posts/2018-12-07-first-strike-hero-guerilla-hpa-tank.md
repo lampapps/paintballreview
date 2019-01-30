@@ -21,7 +21,7 @@ The regulator is unreliable. I recommend that you replace all the O-rings and ti
  
 ##### What we did not like
 
-The reulator is unreliable
+The regulator is unreliable
 
 ##### Bottom Line
 
@@ -29,6 +29,8 @@ Buy if you know how to fix regulators or if you are going to put a different reg
 
 ##### Cost
 
-About $200 on amazon
+Moderate cost.
 
 {% include button.html url="#" %}
+
+[aws]: # "Link to product at Amazon"

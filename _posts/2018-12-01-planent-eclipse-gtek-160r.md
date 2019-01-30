@@ -11,9 +11,9 @@ desc: A review of the Planet Eclipse GTek 160r paintball marker
 
 The Planet Eclipse [Gtek 160r][aws] is the same as a Gtek but, unlike the Gtek that uses a micro line to transfer the air to the regulator the Gtek 160r as a AT pipe the transfers the air from the ASA to the regulator. 
 
-It does not change the performence of the gun it just looks a lot cooler. The on/off ASA is also different, it looks better but it’s harder to use, because the nob is smaller. It is still easy to turn it on and off, I wish the nob had deeper cuts so my finger and grip it better when my hands are full of paint. Also, the entire gun is made at of aluminum, so it feels better in the hands. 
+It does not change the performance of the gun it just looks a lot cooler. The on/off ASA is also different, it looks better but it’s harder to use, because the nob is smaller. It is still easy to turn it on and off, I wish the nob had deeper cuts so my finger and grip it better when my hands are full of paint. Also, the entire gun is made at of aluminum, so it feels better in the hands. 
 
-If you prefer a blade trigger, Planet Eclipse makes blade trigger that is designed to fit the 160r (aftermarket part) The stock trigger is also an upgrade from the regular Gtek. Other than that, the Gtek and the Gtek 160r have the same OLED board, and the same bolt but the Gtek 160r as a softer shot.
+If you prefer a blade trigger, Planet Eclipse makes blade trigger that is designed to fit the 160r (after market part) The stock trigger is also an upgrade from the regular Gtek. Other than that, the Gtek and the Gtek 160r have the same OLED board, and the same bolt but the Gtek 160r as a softer shot.
 
 ##### What we like
 
@@ -35,7 +35,7 @@ Highly recommended for beginners.
 
 ##### Cost 
 
-Moderate cost, about $700 at [Amazon][aws]
+Moderate cost.
 
 {% include button.html url="#" %}
 

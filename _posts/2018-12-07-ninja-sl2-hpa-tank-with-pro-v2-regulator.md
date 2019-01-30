@@ -25,8 +25,8 @@ You are going to pay top dollar for the best of the best.
 
 ##### Cost
 
-Top dollar, about $230 on [Amazon][amz].
+Top dollar.
 
 {% include button.html url="#" %}
 
-[amz]: https://www.amazon.com/Ninja-Paintball-Carbon-Fiber-Tank/dp/B074VH48C8/ref=sr_1_1?ie=UTF8&qid=1544047148&sr=8-1&keywords=ninja+sl2 "Ninja SL2 with Pro v2 Regulator on Amazon"
+[amz]: https://www.amazon.com/Ninja-Paintball-Carbon-Fiber-Tank/dp/B074VH48C8/ref=sr_1_1?ie=UTF8&qid=1544047148&sr=8-1&keywords=ninja+sl2  "Ninja SL2 with Pro v2 Regulator on Amazon"
