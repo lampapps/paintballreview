@@ -2,11 +2,11 @@
 layout: post
 title: "GI Sportz Stealth Pro"
 tagline: Paintball Marker Review
-date: 2018-11-01 12:04
+date: 2018-11-01 12:03
 categories: [Marker]
 tags: [Recommended, Intermediate]
 image: marker-gi-sportz-stealth-pro.jpg
-desc: A review of the GI Sprortz Stealth Pro paintball marker
+desc: A review of the GI Sprortz Stealth Pro Paintball Marker
 ---
 
 Planet Eclipse did a collaboration with GI Sportz to make an upgraded version of their Gtek 160r for the same amount of money. It is called [GI sportz Stealth Pro][aws]. It is the same basic gun, but with many nice upgrades.
