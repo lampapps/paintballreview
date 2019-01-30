@@ -2,7 +2,7 @@
 layout: post
 title: "GI Sportz Stealth Pro"
 tagline: Paintball Marker Review
-date: 2018-11-01 12:03
+date: 2018-11-01 12:04
 categories: [Marker]
 tags: [Recommended, Intermediate]
 image: marker-gi-sportz-stealth-pro.jpg
