@@ -10,7 +10,7 @@ desc: A Review of the Dye I5 Paintball Mask
 ---
 I personally hate the Dye I5 because it fits close to face. If you like a close-fitting mask because it makes you feel more protected then buy it. There are many people that love the Dye I5. 
 
-Because the mask is closer to your face it reduces the breathability and creates an echo when talking. What I like most about the mask is the head strap; it uses a ratchet strap system, which is very comfortable and super easy to adjust for the perfect fit. I like it so much I put the Dye I5 strap on my JT Proflex. Another thing I like about the I5 is that it is super easy to change the lens out.
+Because the mask is close to the face it reduces the breathability and creates an echo when talking. What I like most about the mask is the head strap; it uses a ratchet strap system, which is very comfortable and super easy to adjust for the perfect fit. I like it so much I put the Dye I5 strap on my JT Proflex. Another thing I like about the I5 is that it is super easy to change the lens out.
 
 ##### What we like
 
