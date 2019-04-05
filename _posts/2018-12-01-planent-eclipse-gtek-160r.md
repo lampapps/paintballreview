@@ -35,7 +35,7 @@ Highly recommended for beginners.
 
 ##### Cost 
 
-Moderate cost.
+Moderate cost at $700
 
 {% include button.html url="#" %}
 
