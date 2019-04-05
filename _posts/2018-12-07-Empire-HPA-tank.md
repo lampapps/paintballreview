@@ -9,15 +9,15 @@ image: noimage.png
 desc: A review of the Empire Carbon Fiber HPA
 ---
 
-Empire makes a very basic tank that is great to start off with when you just started into paintball. Basic cabon fiber bottle with a basic regulator. nothing special, but its reliable. I use it as a spare tank.
+Empire makes a very basic tank that is great to start off with when you just started into paintball. Basic cabon fiber bottle with a basic regulator. nothing special, but its reliable.
 
 ##### What we like
 
-Cheap and reliability.
+Cheap for a carbon fiber tank and reliable.
 
 ##### What we do not like
 
-It is just a basic tank, but it is cheap so cant really complain.
+nothing special about the tank other then that it is carban fider
 
 #### Bottom line
 
