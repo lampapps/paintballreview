@@ -21,7 +21,7 @@ No adjustable bonnet.
 
 ##### Bottom line
 
-Perfect if you on a low budget.
+Perfect if you want something a little nicer then a basic carbon fiber tank.
 
 ##### Cost 
 
