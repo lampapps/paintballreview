@@ -18,7 +18,7 @@ If you want the most breathable mask on the market then the JT Proflex is for yo
  
 ##### What we did not like
 
-* Ear protection
+* Not good ear protection
 
 ##### Bottom Line
 
