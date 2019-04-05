@@ -20,11 +20,12 @@ The 3 bore sizes are .684, .688, and .692. The .692 is pointless because .692 is
 
 ##### What we like
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing** elit. Vestibulum vel sodales ex. Donec vel felis faucibus, ullamcorper augue sed, imperdiet nunc. Proin porta magna sit amet arcu suscipit rhoncus. Donec posuere purus quis augue maximus, vel suscipit turpis congue. Integer maximus imperdiet lacus, sed dapibus purus feugiat id. 
+comes with a barrel kit 
+best bolt sytem in the paintball world
 
 ##### What we did not like
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel sodales ex. Donec vel felis faucibus, ullamcorper augue sed, imperdiet nunc. Proin porta magna sit amet arcu suscipit rhoncus. Donec posuere purus quis augue maximus, vel suscipit turpis congue. Integer maximus imperdiet lacus, sed dapibus purus feugiat id. 
+The AT pipes gets in the way of some for some people
 
 ##### Bottom line
 
