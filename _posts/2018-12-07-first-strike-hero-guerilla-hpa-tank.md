@@ -8,9 +8,11 @@ tags: [Recommended]
 image: noimage.png
 desc: A Review of the First Strike Hero Guerrilla HPA Tank
 ---
-First Strike Hero Guerrillas HPA Tank has to be the best bottle on the market, however the regulator sucks. The bottle is super light and they make them fatter then other tanks so you can have a larger size tank without the gun having to be further away from your shoulder.
+First Strike Hero Guerrillas HPA Tank has to be the best bottle on the market, however the regulator sucks. The bottle is super light and they make them fatter then other tanks so you can have a larger size tank without the gun having to be further away from your face.
 
-The regulator is unreliable. I recommend that you replace all the O-rings and tighen all the bust disk. Or just buy a different regulator and put it on the the bottle.
+For all other tanks a good size for most people is a 45/45 but for the first strike tanks a good size is a 77/45
+
+The regulator is unreliable. I recommend that you replace a few O-rings and tighen all the bust disk.
 
 ##### What we like
 
@@ -21,11 +23,11 @@ The regulator is unreliable. I recommend that you replace all the O-rings and ti
  
 ##### What we did not like
 
-The regulator is unreliable
+The the O-rings on the regulator are unreliable
 
 ##### Bottom Line
 
-Buy if you know how to fix regulators or if you are going to put a different regulator on it.
+great bottle but O-rings on regulator go bad quick, which is easy to fix
 
 ##### Cost
 
