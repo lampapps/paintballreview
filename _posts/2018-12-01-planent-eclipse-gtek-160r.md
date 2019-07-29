@@ -17,21 +17,20 @@ If you prefer a blade trigger, Planet Eclipse makes blade trigger that is design
 
 ##### What we like
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel sodales ex. Donec vel felis faucibus, ullamcorper augue sed, imperdiet nunc. Proin porta magna sit amet arcu suscipit rhoncus. Donec posuere purus quis augue maximus, vel suscipit turpis congue. Integer maximus imperdiet lacus, sed dapibus purus feugiat id. 
+ simple to take care of, reliable and air efficient.
 
 ##### What we did not like
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel sodales ex. Donec vel felis faucibus, ullamcorper augue sed, imperdiet nunc. Proin porta magna sit amet arcu suscipit rhoncus. Donec posuere purus quis augue maximus, vel suscipit turpis congue. Integer maximus imperdiet lacus, sed dapibus purus feugiat id. 
+Some people find the AT pipe annoying, and the o-ring gives out easily but that is super simple to fix.
 
 ##### Features
 
-* This
-* that
-* and another things
+* Gmma core bolt 
+* No micro line 
 
 ##### Bottom line
 
-Highly recommended for beginners.
+Highly recommended for starting to get into speedball.
 
 
 {% include button.html url="#" %}
