@@ -22,7 +22,7 @@ CAUTION: Use only compressed air, do not use Co2 in this paintball marker.
 
 ##### Features
 
-* great bolt
+* Gamma bolt
 * no batteries
 
 ##### Bottom line
