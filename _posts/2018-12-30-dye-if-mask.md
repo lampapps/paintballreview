@@ -20,6 +20,7 @@ Because the mask is close to the face it reduces the breathability and creates a
 ##### What we did not like
 
 * Echo
+* persional dont like the close fit to face
 
 ##### Bottom Line
 
