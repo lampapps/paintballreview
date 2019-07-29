@@ -29,9 +29,6 @@ The the O-rings on the regulator are unreliable
 
 great bottle but O-rings on regulator go bad quick, which is easy to fix
 
-##### Cost
-
-Moderate cost.
 
 {% include button.html url="#" %}
 

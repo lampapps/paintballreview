@@ -23,10 +23,6 @@ nothing special about the tank other then that it is carban fider
 
 If you are on a low budget this is the tank for you.
 
-##### Cost
-
-Low cost.
-
 {% include button.html url="#" %}
 
 [aws]: https://www.amazon.com/Empire-Paintball-Basic-Carbon-System/dp/B0052F61TW/ref=sr_1_1?ie=UTF8&qid=1544057508&sr=8-1&keywords=empire+carbon+fiber+tank "Link to Empire Carbon Fiber HPA tank on Amazon"

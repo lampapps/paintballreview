@@ -25,9 +25,6 @@ Because the mask is close to the face it reduces the breathability and creates a
 
 Great mask if you like close fit and as a lot of cool colors
 
-##### Cost
-
-High cost.
 
 {% include button.html url="#" %}
 

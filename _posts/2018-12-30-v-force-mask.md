@@ -27,9 +27,6 @@ Good breathability, good field of view, good face and ear protection. Easy to re
 
 Good buy for the cost.
 
-##### Cost
-
-Low to moderate cost.
 
 {% include button.html url="#" %}
 

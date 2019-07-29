@@ -20,23 +20,19 @@ The 3 bore sizes are .684, .688, and .692. The .692 is pointless because .692 is
 
 ##### What we like
 
-comes with a barrel kit 
-best bolt sytem in the paintball world
+* comes with a barrel kit 
+* best bolt system in the paintball world
 
 ##### What we did not like
 
-The AT pipes gets in the way of some for some people
+* the AT pipes gets in the way of some for some people
 
 ##### Bottom line
 
-Highly recommended paintball maker.
-
-##### Cost 
-
-Moderate cost
+Highly recommended paintball marker.
 
 
-{% include button.html url="#" %}
+{% include button.html url="https://www.amazon.com/SPORTZ-Stealth-Paintball-Marker-Black/dp/B07B5BZ2XT/ref=sr_1_1" %}
 
 
-[aws]: # "Link to GI Sportz Stealth Pro Paintball Marker at Amazon"
+[aws]: https://www.amazon.com/SPORTZ-Stealth-Paintball-Marker-Black/dp/B07B5BZ2XT/ref=sr_1_1 "Link to GI Sportz Stealth Pro Paintball Marker at Amazon"

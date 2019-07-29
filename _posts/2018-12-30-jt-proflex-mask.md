@@ -24,9 +24,6 @@ If you want the most breathable mask on the market then the JT Proflex is for yo
 
 Good buy for the cost.
 
-##### Cost
-
-Low cost.
 
 {% include button.html url="#" %}
 

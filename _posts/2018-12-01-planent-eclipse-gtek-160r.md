@@ -33,9 +33,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel sodales 
 
 Highly recommended for beginners.
 
-##### Cost 
-
-Moderate cost at $700
 
 {% include button.html url="#" %}
 

@@ -24,9 +24,6 @@ Nothing, it is great for the money.
 
 Best bang for your buck.
 
-##### Cost
-
-Average cost.
 
 {% include button.html url="#" %}
 

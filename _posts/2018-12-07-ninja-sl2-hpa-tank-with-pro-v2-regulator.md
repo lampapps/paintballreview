@@ -23,9 +23,6 @@ The cost of the HPA is pricey
 
 You are going to pay top dollar for the best of the best.
 
-##### Cost
-
-Top dollar.
 
 {% include button.html url="#" %}
 

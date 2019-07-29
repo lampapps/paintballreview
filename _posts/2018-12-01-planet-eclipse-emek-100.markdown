@@ -29,9 +29,6 @@ CAUTION: Use only compressed air, do not use Co2 in this paintball marker.
 
 Highly recommended for beginners.
 
-##### Cost 
-
-Low cost.
 
 {% include button.html url="#" %}
 

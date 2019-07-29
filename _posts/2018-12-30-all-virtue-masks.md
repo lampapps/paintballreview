@@ -24,9 +24,6 @@ The reason I am putting all the Virtue masks in one review is because, to me, th
 
 good mask
 
-##### Cost
-
-Moderate cost.
 
 {% include button.html url="#" %}
 

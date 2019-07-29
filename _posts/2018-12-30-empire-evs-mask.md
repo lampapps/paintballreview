@@ -26,9 +26,6 @@ Breathability is OK but has some echo when talking. Comfortable foam that is rep
 
 Recommended based on the field of view.
 
-##### Cost
-
-Moderate cost.
 
 {% include button.html url="#" %}
 
