@@ -33,7 +33,7 @@ layout: page
           -->
         </div>
         <div class="article-text">
-          {{ post.content | truncatewords:75 }}
+          {{ post.content | truncatewords:35 }}
         </div>
         <div class="show-more">
           <a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a>
@@ -42,5 +42,5 @@ layout: page
 
     </article>
   </div>
-
+<hr />
 {% endfor %}

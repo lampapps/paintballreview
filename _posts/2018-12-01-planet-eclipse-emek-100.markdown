@@ -8,7 +8,7 @@ tags: [Recommended, Beginner]
 image: marker-emec100.jpg
 desc: A review of the Planet Eclipse EMEK 100 paintball marker
 ---
-The [EMEK 100][aws] is a mechanical gun, so it so not need batteries. The body is made from composite plastic. The composite plastic will not break. The bolt is the same as other paintball gun that is more expensive from Planet Eclipse. 
+The [EMEK 100][aws] is a mechanical gun, so it so not need batteries. The body is made from composite plastic. The composite plastic will not break. The bolt is the same as other paintball gun that is more expensive from Planet Eclipse.
 
 ##### What we like
 
@@ -16,7 +16,7 @@ The bolt system is super reliable, good consistently, and good air efficiency. F
 
 ##### What we did not like
 
-The only bad thing about the gun is there is no on/off ASA, which is not that big of a deal because you can buy one separately. The [EMEK 100][aws] requires more maintenance then other guns on the beginner gun list becaues it as more O-rings you must clean and lube. In general, maintenance on paintball guns are very simple and easy to learn.
+The only bad thing about the gun is there is no on/off ASA, which is not that big of a deal because you can buy one separately. The [EMEK 100][aws] requires more maintenance then other guns on the beginner gun list because it as more O-rings you must clean and lube. In general, maintenance on paintball guns are very simple and easy to learn.
 
 CAUTION: Use only compressed air, do not use Co2 in this paintball marker.
 
@@ -30,7 +30,7 @@ CAUTION: Use only compressed air, do not use Co2 in this paintball marker.
 Highly recommended for beginners.
 
 
-{% include button.html url="#" %}
+{% include button.html url="https://www.amazon.com/Planet-Eclipse-Mechanical-Paintball-Marker/dp/B07GCVTVYB/ref=sr_1_1?ie=UTF8&qid=1543731391&sr=8-1&keywords=EMEK+100" %}
 
 
 [aws]: https://www.amazon.com/Planet-Eclipse-Mechanical-Paintball-Marker/dp/B07GCVTVYB/ref=sr_1_1?ie=UTF8&qid=1543731391&sr=8-1&keywords=EMEK+100 "Link to EMEk 100 Paintball Marker at Amazon"

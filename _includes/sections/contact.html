@@ -31,16 +31,13 @@
       <div class="col-md-8 col-md-push-2">
         <form id="sera-contact-form" action="https://formspree.io/{{ site.email }}" method="POST" class="contact-form container-fluid">
           <div class="col-md-6">
-            <input type="text" name="name" placeholder="Name" />
-          </div><!--
+            <input type="text" name="name" placeholder="Name" required />
+          </div>
           <div class="col-md-6">
-            <input type="text" name="website" placeholder="Website" />
-          </div>-->
-          <div class="col-md-6">
-            <input type="email" name="email" placeholder="Your email">
+            <input type="email" name="email" placeholder="Your email" required />
           </div>
           <div class="col-md-12">
-            <input type="text" name="subject" placeholder="Subject" />
+            <input type="text" name="subject" placeholder="Subject" required />
           </div>
           <div class="col-md-12">
             <textarea name="message" rows="8" cols="40" placeholder="Message"></textarea>

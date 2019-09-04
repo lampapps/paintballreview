@@ -3,6 +3,7 @@ layout: page
 tagline: Read All Our
 title: Paintball <strong>Reviews</strong>
 desc: Honest paintball equipment reviews of a wide range of equipment such as makers, guns, masks, hoppers, barrels, and more
+sitemap: false
 ---
 
 {% include pagination.html %}
@@ -40,7 +41,7 @@ desc: Honest paintball equipment reviews of a wide range of equipment such as ma
         </div>
       -->
         <div class="article-text">
-          {{ post.content | truncatewords:50 }}
+          {{ post.content | truncatewords:35 }}
         </div>
         <div class="show-more">
           <a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a>
@@ -50,8 +51,9 @@ desc: Honest paintball equipment reviews of a wide range of equipment such as ma
     </article>
   </div>
 
-{% endfor %}
+  <hr />
+  <br />
 
-<hr />
+{% endfor %}
 
 {% include pagination.html %}

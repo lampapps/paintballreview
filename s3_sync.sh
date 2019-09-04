@@ -3,11 +3,11 @@
 # Site specific
 
 AWS_PROFILE='default'
-STAGING_BUCKET='test.paintballreview'
-LIVE_BUCKET='www.paintballreview.info'
+STAGING_BUCKET='dev.paintballreview'
+LIVE_BUCKET='paintballreview.info'
 SITE_DIR='_site/'
 REGION='us-east-1'
-CLOUDFRONTID='enterid from cloudfront'
+CLOUDFRONTID='E2YF8G7LR4P8GU'
 INDEX_PAGE='index.html'
 ERROR_PAGE='error.html'
 

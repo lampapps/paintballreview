@@ -53,7 +53,7 @@
               </div>
             -->
               <div class="article-text">
-                <p>{{ post.excerpt | strip_html }}</p>
+                <p>{{ post.excerpt | strip_html | truncatewords:20}}</p>
               </div>
               <div class="show-more">
                 <a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a>
@@ -73,6 +73,6 @@
       <hr class="normal">
       <a href="blog/index.html" class="button-cta button-focus col-md-3 col-sm-5 col-xs-8">View all reviews</a>
     </div>
- 
+
   </div>
 </section>

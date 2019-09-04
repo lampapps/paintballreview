@@ -1,7 +1,7 @@
 # Configuration File
 
 # Information for compile
-exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md", "s3_sync.sh"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md", "S3_sync.sh"]
 
 #
 # If your website is placed in a separate folder on your server please modify
@@ -10,11 +10,11 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md",
 baseurl:
 
 # the base hostname & protocol for your site
-url: "http://test.paintballreview.s3-website-us-east-1.amazonaws.com"
+url: "https://paintballreview.info"
 
 sass:
   sass_dir: _scss
-  style: compressed # possible values: nested expanded compact compressed
+  style: expanded # possible values: nested expanded compact compressed
 
 ####################################
 ######   Optional Features    ######
@@ -26,7 +26,6 @@ smooth-scroll: false
 ####################################
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
   - jekyll-paginate
 
 jekyll-archives:
@@ -52,13 +51,13 @@ title: Paintball Review
 # Website language
 lang: en-US
 # Site Name as used in some text ie: privacy policy
-name: "www.paintballreview.info"
+name: "paintballreview.info"
 # Default Description if one is available at page level
 desc: Compare paintball gear including markers (guns), hoppers, barrels, tanks, protective gear and clothing.
 # Header Title
 header-title: <strong>Paintball Review</strong>
 # Header Tagline
-headter-tagline: Get the best stuff with
+headter-tagline: Get the Best Gear
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -83,7 +82,7 @@ email: jamesoferry@gmail.com
 
 # Offer Banner Link
 # Default link
-banner-link: 
+banner-link:
 
 ####################################
 ######  Global Social Links   ######
@@ -140,7 +139,7 @@ mailchimp:
 #############   About   #############
 #####################################
 about-title: About Paintball Review
-about-description: Reviews of the products or services on this website are based on personal experience and research. The author of the reviews has over five years experince working for a very succesful paintball business in the Southeast United States allowing him hands on experince with a wide range of equipment. His team placed Third at the 2018 World Cup in Orlando, FL.
+about-description: Reviews of the products or services on this website are based on personal experience and research. The author of the reviews has over five years experince working for a very successful paintball business in the Southeast United States allowing him hands on experince with a wide range of equipment. His team placed Third at the 2018 World Cup in Orlando, FL.
 
 
 #####################################
@@ -459,9 +458,8 @@ contact-description: Would you like us to review a specific piece of paintball g
 footer-description: We do not sell or support any products or services we review however, we may be an affiliate of companies we refer our readers to and may receive compensation if you purchase their products or services.
 footer-copyright-text: www.paintballreview.info
 footer-copyright-url: #
-footer-copyright-year: 2018
-footer-privacypolicy-text: Privacy Policy 
+footer-copyright-year: 2019
+footer-privacypolicy-text: Privacy Policy
 footer-privacypolicy-url: /privacypolicy.html
 footer-TOS-text: Terms of Service
 footer-TOS-url: /tos.html
-
